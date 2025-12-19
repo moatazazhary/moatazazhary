@@ -1,16 +1,60 @@
-## Hi there 👋
+
+<h1 align=”center”>Hi, I’m Moataz Azhary 👋</h1>
+<h3 align=”center”>Frontend Developer | Vue.js | TailwindCSS | Django</h3>
+
+
+## 👨‍💻 About Me
+I’m Moataz Azhary, a passionate web developer who enjoys building clean, modern, and scalable web applications.  
+I work mainly with **Vue.js**, **TailwindCSS**, **JavaScript**, and also build full-stack apps using **Python & Django**.
+
+I love turning ideas into functional applications and continuously improving my skills.
+
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- HTML  
+- CSS  
+- Tailwind CSS  
+- JavaScript  
+- Vue.js  
+
+### **Backend**
+- Python  
+- Django  
+
+### **Tools**
+- Git & GitHub  
+- VS Code  
+- REST APIs  
+
+
+## 🚀 Featured Projects
+
+### 🔹 **Vue Task Manager App**
+A task management application with priority handling and status filtering.  
+**Tech:** Vue 3, TailwindCSS  
+[👉 View Repo](#)
 
 <!--
-**moatazazhary/moatazazhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 **Portfolio Website**
+Personal portfolio built with HTML, CSS, and JavaScript.  
+[👉 View Repo](#)
 
-Here are some ideas to get you started:
+### 🔹 **Django Todo App**
+A backend-powered todo system using Django templates & database.  
+[👉 View Repo](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## 📈 GitHub Stats
+
+![Moataz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moatazazhary&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moatazazhary&layout=compact&theme=dracula)
+
+
+## 🌍 Connect With Me
+- **LinkedIn:** (www.linkedin.com/in/moataz-azhary)
+- **Email:** (moatazazhary@outlook.sa)
+
+
