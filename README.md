@@ -1,6 +1,6 @@
 
 <h1 align=”center”>Hi, I’m Moataz Azhary 👋</h1>
-<h3 align=”center”>Frontend Developer | Vue.js | TailwindCSS | Django</h3>
+<h3 align=”center”>Web Developer | Express.js | Node.js | Vue.js | TailwindCSS | Django</h3>
 
 
 ## 👨‍💻 About Me
