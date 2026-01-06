@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 I’m Moataz Azhary, a passionate web developer who enjoys building clean, modern, and scalable web applications.  
-I work mainly with **Vue.js**, **TailwindCSS**, **JavaScript**, and also build full-stack apps using **Python & Django**.
+I work mainly with **Vue.js**, **TailwindCSS**, **JavaScript**, and also build full-stack apps using **Express.js in Node.js**.
 
 I love turning ideas into functional applications and continuously improving my skills.
 
@@ -20,8 +20,9 @@ I love turning ideas into functional applications and continuously improving my 
 - Vue.js  
 
 ### **Backend**
-- Python  
-- Django  
+- JavaScript
+- Express.js
+- Node.js
 
 ### **Tools**
 - Git & GitHub  
