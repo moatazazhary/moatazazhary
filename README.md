@@ -1,61 +1,49 @@
 
-<h1 align=”center”>Hi, I’m Moataz Azhary 👋</h1>
-<h3 align=”center”>Web Developer | Express.js | Node.js | Vue.js | TailwindCSS | Django</h3>
+# Moataz Azhary – Backend Developer
 
+Hi! I’m **Moataz Azhary**, a freelance backend developer specializing in **clean, maintainable, and scalable backend systems** for SaaS products and dashboards. I help founders and startups turn complex business rules into **readable, production-ready code** that’s easy to extend and maintain.
 
-## 👨‍💻 About Me
-I’m Moataz Azhary, a passionate web developer who enjoys building clean, modern, and scalable web applications.  
-I work mainly with **Vue.js**, **TailwindCSS**, **JavaScript**, and also build full-stack apps using **Express.js in Node.js**.
+---
 
-I love turning ideas into functional applications and continuously improving my skills.
+## What I Do
 
+- **Build backend APIs** using Node.js, TypeScript, Express, and PostgreSQL  
+- **Implement authentication & authorization** (JWT, refresh tokens, RBAC)  
+- **Translate business logic** into modular, maintainable code  
+- **Create clear API documentation** using Swagger  
+- **Design database schemas** optimized for scalability and maintainability  
 
-## 🛠️ Tech Stack
+---
 
-### **Frontend**
-- HTML  
-- CSS  
-- Tailwind CSS  
-- JavaScript  
-- Vue.js  
+## How I Work
 
-### **Backend**
-- JavaScript
-- Express.js
-- Node.js
+I focus on **feature-based architecture**, separation of concerns, and clean code principles to deliver backend systems that:  
 
-### **Tools**
-- Git & GitHub  
-- VS Code  
-- REST APIs  
+- Are **easy to understand** for any developer  
+- **Reduce technical debt** and future rewrites  
+- Support **growth and scaling** without breaking existing features  
 
+---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🔹 **Vue Task Manager App**
-A task management application with priority handling and status filtering.  
-**Tech:** Vue 3, TailwindCSS  
-[👉 View Repo](#)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) Node.js  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) TypeScript  
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) Express.js  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) PostgreSQL  
+- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) Swagger/OpenAPI  
 
-<!--
-### 🔹 **Portfolio Website**
-Personal portfolio built with HTML, CSS, and JavaScript.  
-[👉 View Repo](#)
+---
 
-### 🔹 **Django Todo App**
-A backend-powered todo system using Django templates & database.  
-[👉 View Repo](#)
+## Why Work With Me
 
--->
-## 📈 GitHub Stats
+I don’t just write code — I **deliver value**. Every project is designed to be **maintainable, scalable, and aligned with your business needs**. My goal is to make your backend system reliable so you can focus on growing your product.  
 
-![Moataz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moatazazhary&show_icons=true&theme=dracula)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moatazazhary&layout=compact&theme=dracula)
+## Let’s Connect
 
+I’m open to **freelance opportunities, collaborations, or consulting** for SaaS startups and businesses looking for **reliable backend solutions**.  
 
-## 🌍 Connect With Me
-- **LinkedIn:** (www.linkedin.com/in/moataz-azhary)
-- **Email:** (moatazazhary@outlook.sa)
-
-
+📧 Contact me: moataz@example.com  
+🌐 Portfolio / GitHub: [github.com/moatazazhary](https://github.com/moatazazhary)
