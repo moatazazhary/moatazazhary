@@ -45,6 +45,6 @@ I don’t just write code — I **deliver value**. Every project is designed to 
 
 I’m open to **freelance opportunities, collaborations, or consulting** for SaaS startups and businesses looking for **reliable backend solutions**.  
 
-📧 Contact me: moatazazhary@outlook.sa
-🌐 LinkedIn: [https://www.linkedin.com/in/moatazazhary](https://www.linkedin.com/in/moatazazhary)
-🌐 Portfolio / GitHub: [github.com/moatazazhary](https://github.com/moatazazhary)
+- 📧 Contact me: moatazazhary@outlook.sa
+- 🌐 LinkedIn: [https://www.linkedin.com/in/moatazazhary](https://www.linkedin.com/in/moatazazhary)
+- 🌐 Portfolio / GitHub: [github.com/moatazazhary](https://github.com/moatazazhary)
